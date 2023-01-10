@@ -1,6 +1,6 @@
 {
   "include": ["./src/**/*"],
-  "exclude": ["node_modules"],
+  "exclude": ["node_modules", "build"],
   "compilerOptions": {
     "target": "es2016", 
     "module": "ES2015",                                  /* Specify what module code is generated. */
